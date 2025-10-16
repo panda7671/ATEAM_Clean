@@ -26,6 +26,14 @@ public class RegionButtonUI : MonoBehaviour
         bool unlocked = region.isUnlocked;
         if (lockOverlay != null) lockOverlay.SetActive(!unlocked);
         if (button != null) button.interactable = unlocked;
+
+        if (regionImage != null)
+        {
+            var color = regionImage.color;
+            color.a = unlocked ? 1f : 1f; // 잠기면 40% 투명
+            regionImage.color = color;
+        }
+
     }
 
     public void AddClickListener(UnityEngine.Events.UnityAction action)

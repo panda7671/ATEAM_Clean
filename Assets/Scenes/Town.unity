@@ -26371,6 +26371,22 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
+      propertyPath: regions.Array.data[0].thumbnail
+      value: 
+      objectReference: {fileID: 21300000, guid: 90bed97c23265d04aa4c0cbb9ccfde50, type: 3}
+    - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
+      propertyPath: regions.Array.data[1].thumbnail
+      value: 
+      objectReference: {fileID: 21300000, guid: 207b6df9db583374fb69d11709be4592, type: 3}
+    - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
+      propertyPath: regions.Array.data[2].thumbnail
+      value: 
+      objectReference: {fileID: 21300000, guid: 6b629d575a6d73443a16362866d3a47b, type: 3}
+    - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
+      propertyPath: regions.Array.data[3].thumbnail
+      value: 
+      objectReference: {fileID: 21300000, guid: 3d0dec7ee3da6784cb40fa79750e22e1, type: 3}
+    - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
       propertyPath: regions.Array.data[0].stages.Array.data[0].stageId
       value: 1-1
       objectReference: {fileID: 0}
