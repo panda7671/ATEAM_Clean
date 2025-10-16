@@ -1,0 +1,48 @@
+# =======================
+# Unity Project Optimized .gitignore
+# =======================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.user
+*.pidb
+*.suo
+*.tmp
+*.booproj
+*.svd
+*.pdb
+.idea/
+.gradle/
+
+[Bb]uilds/
+Build/
+Builds/
+ExportedObj/
+Compiled-*/
+
+Assets/AssetStoreTools*
+Assets/StreamingAssets/AssetBundles/
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.unitypackage
+*.zip
+*.rar
+*.7z
+
+# ✅ Only essential Unity folders tracked:
+# - Assets/
+# - Packages/
+# - ProjectSettings/
