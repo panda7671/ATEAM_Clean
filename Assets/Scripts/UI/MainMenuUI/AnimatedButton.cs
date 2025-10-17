@@ -13,8 +13,8 @@ public class AnimatedButton : MonoBehaviour, IPointerEnterHandler, IPointerExitH
     [Header("Color Animation")]
     public bool useColorAnimation = true;
     public Color normalColor = Color.white;
-    public Color hoverColor = new Color(1f, 1f, 1f, 0.8f);
-    public Color pressedColor = new Color(0.8f, 0.8f, 0.8f, 1f);
+    public Color hoverColor = new Color(1f, 1f, 1f, 1f);
+    public Color pressedColor = new Color(1f, 1f, 1f, 1f);
 
     private Vector3 originalScale;
     private Image buttonImage;
