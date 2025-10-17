@@ -26373,7 +26373,7 @@ PrefabInstance:
     - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
       propertyPath: regions.Array.data[0].thumbnail
       value: 
-      objectReference: {fileID: 21300000, guid: 90bed97c23265d04aa4c0cbb9ccfde50, type: 3}
+      objectReference: {fileID: 21300000, guid: ef760050fa2912e4a96063add754260c, type: 3}
     - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
       propertyPath: regions.Array.data[1].thumbnail
       value: 
@@ -26386,6 +26386,14 @@ PrefabInstance:
       propertyPath: regions.Array.data[3].thumbnail
       value: 
       objectReference: {fileID: 21300000, guid: 3d0dec7ee3da6784cb40fa79750e22e1, type: 3}
+    - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
+      propertyPath: regions.Array.data[4].thumbnail
+      value: 
+      objectReference: {fileID: 21300000, guid: 953fcafdeaa4def4d9f2dfbce9dd2d4d, type: 3}
+    - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
+      propertyPath: regions.Array.data[5].thumbnail
+      value: 
+      objectReference: {fileID: 21300000, guid: 04dd4da17f4924a48abf1823ec2b482b, type: 3}
     - target: {fileID: 8902430930851671449, guid: cb449d7462e164e49a49862b58819aef, type: 3}
       propertyPath: regions.Array.data[0].stages.Array.data[0].stageId
       value: 1-1
